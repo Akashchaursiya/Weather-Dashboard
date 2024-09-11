@@ -1,0 +1,5 @@
+.bg-clear-image {
+    background-image: url('sunset.jpg');
+    background-size: cover;
+    background-position: center;
+}
